@@ -1,4 +1,4 @@
-# Meetup 7
+# Meetup 8
 
 ### GraphQL, CQRS & Event Sourcing
 
